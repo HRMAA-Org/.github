@@ -10,8 +10,10 @@ It can give a general overview of your health in comparison to people of your ag
 ## Features
 Measurement of Heart Rate through 
 - PPG using phone's camera
-- Fitbit
+- Dr. Trust ECG machine
+- Polar H-10
 - ECG Sensors
+- Fitbit
 - Google Health Connect 
 
 
@@ -19,6 +21,7 @@ Measurement of Heart Rate through
 
 - Improvement in accuracies of current heart rate measurement methods.
 - Identifying and implementing the best heart rate analysis strategies for the use case after a systematic research.
+- Establishing effectiveness of self-made ECG machnine in prediction of heart diseases and anolmalies.
 
 
 
